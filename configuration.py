@@ -1,0 +1,8 @@
+URL_SERVICE = 'https://stellarburgers.nomoreparties.site'
+CREATE_USER_PATH = f'{URL_SERVICE}/api/auth/register'
+DELETE_USER_PATH = f'{URL_SERVICE}/api/auth/user'
+LOGIN_USER_PATH = f'{URL_SERVICE}/api/auth/login'
+CHANGE_USER_DATA_PATH = f'{URL_SERVICE}/api/auth/user'
+CREATE_ORDER_PATH = f'{URL_SERVICE}/api/orders'
+GET_ORDERS_PATH = f'{URL_SERVICE}/api/orders'
+GET_INGREDIENTS_DATA_PATH = f'{URL_SERVICE}/api/ingredients'
